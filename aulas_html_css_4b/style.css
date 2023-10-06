@@ -9,16 +9,19 @@
     border: 2px rgb(255, 0, 0) solid;
     width: 200px;
     height: 75px;
+    margin: 20px;
 }
 
 .t{
     border: 2px rgb(0, 47, 255) solid;
     width: 300px;
     height: 100px;
+    margin: 20px;
 }
 
 .b{
     border: 2px rgb(255, 238, 0) solid;
     width: 400px;
     height: 150px;
+    margin: 20px;
 }
