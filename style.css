@@ -1,0 +1,24 @@
+.nome{
+    border: 2px #000 solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+}
+
+.p{
+    border: 2px rgb(255, 0, 0) solid;
+    width: 200px;
+    height: 75px;
+}
+
+.t{
+    border: 2px rgb(0, 47, 255) solid;
+    width: 300px;
+    height: 100px;
+}
+
+.b{
+    border: 2px rgb(255, 238, 0) solid;
+    width: 400px;
+    height: 150px;
+}
